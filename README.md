@@ -15,6 +15,6 @@ If you happen to think Julia-i18n's objectives are not [greedy](http://julialang
 
 ## Roadmap
 
-- [ ] Add and update references of this organization to the Julia website.
-- [ ] Create a logo.
+- [x] Add and update references of this organization to the Julia website, see: [JuliaLang/julialang.github.com/#438](https://github.com/JuliaLang/julialang.github.com/pull/438)
+- [ ] Create a logo (work in progress), see: [Julia-i18n logo proposal](https://groups.google.com/forum/#!topic/julia-users/rahjsS_OW4g)
 - [ ] Create a new gitter chat room or transfer the old one over here.
