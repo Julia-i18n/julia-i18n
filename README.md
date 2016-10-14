@@ -33,6 +33,6 @@ please submit an issue or pull request with your ungracious demands!
 
 - [x] Add and update references of this organization to the Julia website;
   see: [JuliaLang/julialang.github.com/#438](https://github.com/JuliaLang/julialang.github.com/pull/438)
-- [ ] Create a logo (work in progress, see 
-  [Julia-i18n logo proposal](https://groups.google.com/d/topic/julia-dev/rahjsS_OW4g/discussion))
+- [x] Create a logo; see 
+  [Julia-i18n logo proposal](https://groups.google.com/d/topic/julia-dev/rahjsS_OW4g/discussion) and #5
 - [ ] Create a new gitter chat room or transfer the old one over here (work in progress).
