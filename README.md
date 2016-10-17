@@ -37,4 +37,4 @@ please submit an issue or pull request with your ungracious demands!
   see: [JuliaLang/julialang.github.com/#438](https://github.com/JuliaLang/julialang.github.com/pull/438)
 - [x] Create a logo; see 
   [Julia-i18n logo proposal](https://groups.google.com/d/topic/julia-dev/rahjsS_OW4g/discussion) and #5
-- [ ] Create a new gitter chat room or transfer the old one over here (work in progress).
+- [x] Create a new gitter chat room or transfer the messages from the old one into it.
